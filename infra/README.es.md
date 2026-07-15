@@ -4,3 +4,4 @@ Esta carpeta contiene las **configuraciones de infraestructura** para el monorep
 
 - **Propósito principal**: centralizar la definición de la infraestructura necesaria para ejecutar las aplicaciones y servicios de la compañía.
 - **Recomendación**: documenta cómo aprovisionar y desplegar la infraestructura.
+[text](../services)
